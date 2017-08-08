@@ -12,14 +12,14 @@ $(".clickable2").click(function() {
 });
 
 $(document).ready(function() {
-  $("button#green").click(function() {
+  $("button#black").click(function() {
     $("body").removeClass();
-    $("body").addClass("green-background");
+    $("body").addClass("black-background");
     //$("body").css("background-color", "green");
   });
-  $("button#yellow").click(function() {
+  $("button#white").click(function() {
     $("body").removeClass();
-    $("body").addClass("yellow-background");
+    $("body").addClass("white-background");
     //$("body").css("background-color", "#cca300");
   });
   $("button#red").click(function() {

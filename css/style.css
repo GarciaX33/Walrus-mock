@@ -34,14 +34,16 @@
   float: none;
 }
 
-.green-background {
-  background-color: green;
+.black-background {
+  background-color: #000000;
+  color: white;
 }
 
-.yellow-background {
-  background-color: #cca300;
+.white-background {
+  background-color: #ffffff;
 }
 
 .red-background {
   background-color: #660000;
+  color: white;
 }
