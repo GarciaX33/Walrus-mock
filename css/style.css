@@ -47,3 +47,19 @@
   background-color: #660000;
   color: white;
 }
+
+.clickableP {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickableP: hover {
+  text-decoration: none;
+}
+/*.highlightcolor {
+  background-color: yellow;
+}*/
+.yellow-background {
+  color: red;
+  background-color: yellow;
+}

@@ -28,4 +28,19 @@ $(document).ready(function() {
     //$("body").css("background-color", "#660000");
   });
 
+  $("div.highlightP").click(function() {
+    //$("span.clickableP").removeClass();
+    $("span.clickableP").addClass("yellow-background");
+    //$("body").css("background-color", "#660000");
+  });
+
+
+
+
 });
+
+//var addclass = 'highlightcolor';
+//var $cols = $('clickableP').click(function(e) {
+  //$("body").removeClass();
+  //$("body").addClass("red-background");
+//});
