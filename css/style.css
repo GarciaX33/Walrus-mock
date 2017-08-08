@@ -1,0 +1,47 @@
+#walrus-showing1 {
+  display: none;
+}
+
+#walrus-showing2 {
+  display: none;
+  float:right;
+}
+
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable: hover {
+  text-decoration: underline;
+}
+
+#walrusright {
+  float: right;
+}
+
+.clickable2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable2: hover {
+  text-decoration: underline;
+}
+
+#walrus-hidden2 {
+  float: none;
+}
+
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: #cca300;
+}
+
+.red-background {
+  background-color: #660000;
+}
